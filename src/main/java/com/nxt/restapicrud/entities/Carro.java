@@ -1,4 +1,4 @@
-package com.nxt.restapicrud;
+package com.nxt.restapicrud.entities;
 
 import java.util.Objects;
 
